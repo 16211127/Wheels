@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: solid .3em #dfdfdf;
+    border-radius: 80%;
+}
+
+.table-2-1{
+}

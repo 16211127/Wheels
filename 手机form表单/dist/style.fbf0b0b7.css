@@ -1,0 +1,45 @@
+*{margin: 0;padding: 0;}
+input{outline: none;}
+select{
+    outline: none;
+    width: 100%;
+    text-align: center;
+    appearance: none; 
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-size: 0.45rem 0.8rem;
+}
+
+.lineinput {
+    width: 100%;
+    border-bottom: 2px solid #eee;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+}
+
+.lineitem{
+    height: 30px;
+}
+
+.submit{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+header{
+    background-color: rgb(111, 151, 187);
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    flex-direction: column;
+}
+
+header > .headerbox{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
